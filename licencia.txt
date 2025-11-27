@@ -1,0 +1,22 @@
+La licencia MIT es:
+La más simple
+Es un texto corto, fácil de entender y sin términos legales complicados.
+
+La más permisiva
+Permite que cualquier persona:
+use tu código
+lo modifique
+lo copie
+lo distribuya
+lo use comercialmente
+sin pedir permiso.
+
+Protege tus derechos como autor
+Aunque otros puedan usar tu código, siempre deben dejar tu nombre en el archivo LICENSE, reconociendo que tú eres el creador.
+Protege tu responsabilidad legal
+Incluye una frase muy importante:
+“El software se proporciona “tal cual”, sin garantía de ningún tipo”.
+Esto significa que si alguien usa tu código y algo sale mal, no te pueden culpar ni demandar.
+
+Perfecta para proyectos educativos, demos o ejercicios
+Como este juego es un ejemplo simple de Flask, la MIT es ideal.
